@@ -5,7 +5,7 @@ Codewell's aim is to provide you with real-world design templates that you can u
 
 Free or paid, all templates are high quality and will make great portfolio pieces.
 
-### I've completed the challenge, now what?
+### I've completed the challenge,now what?
 
 We recommend using one of these two websites to deploy your projects
 
